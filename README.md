@@ -28,8 +28,8 @@ ATM INTERFACE
 
 ```
 ===== LOGIN TO ATM =====
-Enter User ID: user0123
-Enter PIN: 1234
+Enter User ID: SayaliPardhi
+Enter PIN: 1627
 
 ===== WELCOME TO ATM =====
 
